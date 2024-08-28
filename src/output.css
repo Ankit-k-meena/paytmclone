@@ -586,6 +586,10 @@ video {
   justify-content: space-between;
 }
 
+.justify-around {
+  justify-content: space-around;
+}
+
 .justify-evenly {
   justify-content: space-evenly;
 }
@@ -644,6 +648,38 @@ video {
 
 .p-\[65px\] {
   padding: 65px;
+}
+
+.p-0 {
+  padding: 0px;
+}
+
+.p-16 {
+  padding: 4rem;
+}
+
+.p-\[\] {
+  padding: ;
+}
+
+.p-\[67\] {
+  padding: 67;
+}
+
+.p-\[67px\] {
+  padding: 67px;
+}
+
+.pt-16 {
+  padding-top: 4rem;
+}
+
+.pb-16 {
+  padding-bottom: 4rem;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .text-4xl {
